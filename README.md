@@ -1,4 +1,4 @@
-# Description
+# Take Home Test (Technical Writer)
 This repository contains a take home exercise for technical writer candidates.
 
 ## Instructions:
