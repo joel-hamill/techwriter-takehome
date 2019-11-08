@@ -1,6 +1,6 @@
 ### How do you revert a change from one branch and add it to another?
-Scenario: You make an update and commit the the `master` branch. Afterward you realize that you should've made this 
-change to another branch named `staging`. What do you? 
+Scenario: You make an update and commit to the `master` branch. Afterward you realize that you should've made this 
+change to another branch named `staging`. What do you do? 
 
 ### How do you squash git commits?
 Scenario: You have a GitHub branch with 5 separate commits. What is the command line sequence to squash those 5 commits 
