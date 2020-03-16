@@ -1,5 +1,5 @@
 ### How do you revert a change from one branch and add it to another?
-Scenario: You make an update and commit to the `master` branch. Afterward you realize that you should've made this 
+Scenario: You make an update and commit to the `master` branch. Afterward, you realize that you should've made this 
 change to another branch named `staging`. What do you do? 
 
 ### How do you squash git commits?
@@ -23,18 +23,12 @@ into a single commit?
 Scenario: Complete step 1 of [this quick start](https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html) to 
 install a local version of Confluent Platform. After completing step 1, what port number is ZooKeeper running on?
 
-### How many Kafka topics are created by default when you install Confluent Platform?
+### What are the default topics created when you install Confluent Platform using the quick start?
 
-Scenario: Complete step 1 of [this quick start](https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html) to 
-install a local version of Confluent Platform. After completing step 1, what are the names of the default topics that 
-are created by Kafka?
+Scenario: After you complete step 1 of [this quick start](https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html), 
+open Control Center at http://localhost:9021/. What are the names of the default topics that are created by Kafka?
 
-### What topics are created?
+### What is the name of the Connect cluster that is created?
 
 Scenario: Complete step 2 of [this quick start](https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html). 
-How many total topics are shown in the **Topics** tab and what are their names?
-
-### What is the name of another connector?
-
-Scenario: Complete step 3 of [this quick start](https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html). 
-What is the name of another connector, besides the **Datagen​Connector**. 
+What is the name of the Connect cluster that is created?
