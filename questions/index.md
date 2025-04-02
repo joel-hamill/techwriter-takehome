@@ -20,7 +20,7 @@ into a single commit?
 }
 ```
 
-### What is the ZooKeeper port?
+### What is the Kafka broker port?
 
 Scenario: Complete step 1 of [this Confluent Platform quick start](https://docs.confluent.io/platform/current/get-started/platform-quickstart.html) to 
 install a local version of Confluent Platform. After completing step 1, what port number is the broker running on?
