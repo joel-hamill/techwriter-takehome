@@ -1,3 +1,5 @@
+
+
 ### How do you revert a change from one branch and add it to another?
 Scenario: You make an update and commit to the `master` branch. Afterward, you realize that you should've made this 
 change to another branch named `staging`. What do you do? 
@@ -20,15 +22,15 @@ into a single commit?
 
 ### What is the ZooKeeper port?
 
-Scenario: Complete step 1 of [this Confluent Platform quick start]([https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html](https://docs.confluent.io/platform/7.3/platform-quickstart.html)) to 
-install a local version of Confluent Platform. After completing step 1, what port number is ZooKeeper running on?
+Scenario: Complete step 1 of [this Confluent Platform quick start](https://docs.confluent.io/platform/current/get-started/platform-quickstart.html) to 
+install a local version of Confluent Platform. After completing step 1, what port number is the broker running on?
 
 ### What are the default topics created when you install Confluent Platform using the quick start?
 
-Scenario: After you complete step 1 of [this quick start]([https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html](https://docs.confluent.io/platform/7.3/platform-quickstart.html)), 
+Scenario: After you complete step 1 of [this quick start](https://docs.confluent.io/platform/current/get-started/platform-quickstart.html), 
 open Control Center at http://localhost:9021/. What are the names of the default topics that are created by Kafka?
 
 ### What is the name of the Connect cluster that is created?
 
-Scenario: Complete step 2 of [this quick start]([https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html](https://docs.confluent.io/platform/7.3/platform-quickstart.html)https://docs.confluent.io/platform/7.3/platform-quickstart.html). 
+Scenario: Complete step 2 of [this quick start](https://docs.confluent.io/platform/current/get-started/platform-quickstart.html). 
 What is the name of the Connect cluster that is created?
