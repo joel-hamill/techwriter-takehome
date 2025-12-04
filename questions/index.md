@@ -28,7 +28,7 @@ install a local version of Confluent Platform. After completing step 1, what por
 ### What are the default topics created when you install Confluent Platform using the quick start?
 
 Scenario: After you complete step 1 of [this quick start](https://docs.confluent.io/platform/current/get-started/platform-quickstart.html), 
-open Control Center at http://localhost:9021/ (note that Control Center takes a few minutes to load in your browser). 
+open Control Center at http://localhost:9021/. Note that Control Center takes a few minutes to load in your browser. 
 What are the names of the default topics that are created by Kafka?
 
 ### What is the name of the Connect cluster that is created?
